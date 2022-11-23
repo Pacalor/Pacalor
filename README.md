@@ -6,6 +6,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Pacalor&theme=cobalt&show_icons=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pacalor&layout=compact&theme=cobalt)
+
 <h2 align="center">What i'm doing</h2>
 
 - Getting more skill with python with freecodecamp certificates
@@ -20,4 +21,4 @@
 
 <h2 align="center">Where i have contribute</h2> 
 
-[![Server](https://github-readme-stats.vercel.app/api/pin/?username=AdrianArtimez&repo=ServerChat&theme=cobalt)](https://github.com/AdrianArtimez/ServerChat)
+- Java server sockets [Server](https://github.com/AdrianArtimez/ServerChat)
