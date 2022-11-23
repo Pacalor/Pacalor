@@ -14,10 +14,10 @@
 
 <h2 align="center">What i have done</h2>
 
-- Java programing thesis with IA and data collecting on Android  [Thesis](../TFG/)
-- Java programing develop for learning [Formation1](../T-Formation/),  [Formation2](../VendingMachine/), [Formation3](../Baptisterio-Java/)
+![Thesis](https://github-readme-stats.vercel.app/api/pin/?username=Pacalor&repo=TFG&theme=cobalt)
+![Formation1](https://github-readme-stats.vercel.app/api/pin/?username=Pacalor&repo=T-Formation&theme=cobalt),  ![Formation2](https://github-readme-stats.vercel.app/api/pin/?username=Pacalor&repo=VendingMachine&theme=cobalt), ![Formation3](https://github-readme-stats.vercel.app/api/pin/?username=Pacalor&repo=VendingMachine&theme=cobalt)
 - Get AZ-900 certificate
 
 <h2 align="center">Where i have contribute</h2> 
 
-- Java socket test server [Server](https://github.com/AdrianArtimez/ServerChat)
+![Server](https://github-readme-stats.vercel.app/api/pin/?username=AdrianArtimez&repo=ServerChat&theme=cobalt)
