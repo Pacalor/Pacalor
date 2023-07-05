@@ -9,8 +9,9 @@
 
 <h2 align="center">What i'm doing</h2>
 
-- Getting more skill with python with freecodecamp certificates
-- Learning Rust
+- Working with Ruby, Cucumber and Java 
+- Inproving my docker skills
+- Using a vscoder server to my own work (java image recognition with AI)
 
 
 <h2 align="center">What i have done</h2>
