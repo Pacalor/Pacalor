@@ -9,17 +9,6 @@
 
 <h2 align="center">What i'm doing</h2>
 
-- Working with Ruby, Cucumber and Java 
-- Inproving my docker skills
-- Using a vscoder server to my own work (java image recognition with AI)
-
-
-<h2 align="center">What i have done</h2>
-
-[![Thesis](https://github-readme-stats.vercel.app/api/pin/?username=Pacalor&repo=TFG&theme=cobalt)](https://github.com/Pacalor/TFG)
-[![Formation1](https://github-readme-stats.vercel.app/api/pin/?username=Pacalor&repo=T-Formation&theme=cobalt)](https://github.com/Pacalor/T-Formation),  [![Formation2](https://github-readme-stats.vercel.app/api/pin/?username=Pacalor&repo=VendingMachine&theme=cobalt)](https://github.com/Pacalor/VendingMachine), [![Formation3](https://github-readme-stats.vercel.app/api/pin/?username=Pacalor&repo=Baptisterio-Java&theme=cobalt)](https://github.com/Pacalor/Baptisterio-Java)
-- Get AZ-900 certificate
-
-<h2 align="center">Where i have contribute</h2> 
-
-- Java server sockets [Server](https://github.com/AdrianArtimez/ServerChat)
+- Working as a DevpOps and developer. 
+- Inproving my docker/kubernetes skills.
+- Using a vscoder server to my own work on free time (java image recognition with AI)
